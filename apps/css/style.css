@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+body {
+  font-family: "PT serif caption", serif;
+}
+
+.fon {
+  font-family: "Roboto", sans-serif;
+  font-size: medium;
+}
+
+.ran {
+  background-color: #2e2a2a;
+  width: 140px;
+}
+
+.lgt {
+  background-color: #bcc4d3;
+  width: 190px;
+  height: 60px;
+}
+
+.lgt-bas {
+  background-color: #bcc4d3;
+  width: 270px;
+  height: 60px;
+}
+
+.lgt-rug {
+  background-color: #bcc4d3;
+  width: 260px;
+  height: 60px;
+}
+
+.ftr {
+  background-color: #2e2a2a;
+}
